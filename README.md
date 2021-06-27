@@ -1,9 +1,6 @@
 # Runtime type checking example
 
-## Prerequisites
-
-- io-ts
-- fp-ts
+Runtime type checking in **TypeScript** with `io-ts` and `fp-ts`.
 
 ## Run
 

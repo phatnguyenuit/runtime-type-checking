@@ -1,8 +1,8 @@
 {
   "name": "runtime-type-checking",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Runtime type checking in TypeScript with `io-ts` and `fp-ts`.",
+  "main": "dist/index.js",
   "scripts": {
     "start": "cross-env NODE_PATH=dist nodemon dist/index.js",
     "watch": "tsc --watch",
